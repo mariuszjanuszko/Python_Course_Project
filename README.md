@@ -94,3 +94,13 @@ The project uses the tools taught in the course:
    git clone https://github.com/mariuszjanuszko/Python_Course_Project.git
 2. Open the notebooks using Jupyter Notebook or VS Code.
 3. Run the notebooks, especially those in the 3_Project/ directory, from top to bottom.
+
+## 🎓 Course Credit
+
+All learning materials, project structure, and analysis approach are from:
+
+Luke Barousse – Python & Data Analytics Course
+
+Original final project: U.S. job market
+
+This repository: Italian job market adaptation
