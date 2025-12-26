@@ -122,6 +122,5 @@ This project follows the methodology taught in:
 
 **Luke Barousse – Python & Data Analytics Course**
 
-    Original project: U.S. job market
-
-    This repository: Italian job market adaptation
+- Original project: U.S. job market
+- This repository: Italian job market adaptation
