@@ -97,11 +97,11 @@ The analysis answers key questions:
 ## 📂 Repository Structure
 
 3_Project/
-├── 1_EDA_Intro.ipynb       # Initial exploration and data overview
-├── 2_Skill_Demand.ipynb    # Most in-demand skills
-├── 3_Skills_Trend.ipynb    # Trends over time
+├── 1_EDA_Intro.ipynb # Initial exploration and data overview
+├── 2_Skill_Demand.ipynb # Most in-demand skills
+├── 3_Skills_Trend.ipynb # Trends over time
 ├── 4_Salary_Analysis.ipynb # Salary distributions by role/skill
-└── 5_Optimal_Skills.ipynb  # High-demand, high-paying skills
+└── 5_Optimal_Skills.ipynb # High-demand, high-paying skills
 
 ---
 
