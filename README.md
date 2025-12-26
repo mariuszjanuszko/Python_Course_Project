@@ -74,7 +74,7 @@ Through this repository, I strengthened both my **Python** and **data analysis**
 ## How to Use
 
 1. Clone the repository:
-```bash
+
 git clone https://github.com/mariuszjanuszko/Python_Course_Project.git
 
     Explore the folders:
@@ -93,8 +93,7 @@ git clone https://github.com/mariuszjanuszko/Python_Course_Project.git
 
 All learning materials, exercises, and project methodology are from:
 
-Luke Barousse – Python & Data Analytics Course
+**Luke Barousse – Python & Data Analytics Course**
 
-    Basics & Advanced: Course lessons and exercises
-
-    Final project: U.S. job market methodology adapted for the Italian job market
+- Basics & Advanced: Course lessons and exercises  
+- Final project: U.S. job market methodology adapted for the Italian job market
