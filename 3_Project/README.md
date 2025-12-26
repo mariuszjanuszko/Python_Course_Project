@@ -1,11 +1,11 @@
-# Data Analyst Job Market Analysis – Italy
+# 💼 Data Analyst Job Market Analysis – Italy
 
 This project analyzes the **Italian data analyst job market**, exploring **skill demand, salaries, and optimal skills** for career growth.  
 It adapts the methodology taught in **Luke Barousse’s Python & Data Analytics course** to a country-specific context.
 
 ---
 
-## Project Goals
+## 🎯 Project Goals
 
 The analysis answers key questions:
 
@@ -16,7 +16,7 @@ The analysis answers key questions:
 
 ---
 
-## Tools & Technologies
+## 🛠️ Tools & Technologies
 
 - **Python** – Core programming language  
   - **pandas** – Data cleaning, manipulation, and aggregation  
@@ -27,7 +27,7 @@ The analysis answers key questions:
 
 ---
 
-## Data Preparation
+## 🧹 Data Preparation
 
 - Imported and cleaned dataset provided via Luke Barousse’s course  
 - Converted dates, parsed skill lists, and handled missing data  
@@ -36,7 +36,7 @@ The analysis answers key questions:
 
 ---
 
-## Analysis Overview
+## 📊 Analysis Overview
 
 ### 1. Exploratory Data Analysis (`1_EDA_Intro.ipynb`)
 - Examined dataset structure and key columns: job titles, locations, salaries, skills  
@@ -65,7 +65,7 @@ The analysis answers key questions:
 
 ---
 
-## Key Insights
+## 📌 Key Insights
 
 - Core skills like SQL, Python, and Excel are essential for employability  
 - Specialized skills increase earning potential  
@@ -74,7 +74,7 @@ The analysis answers key questions:
 
 ---
 
-## Challenges
+## ⚠️ Challenges
 
 - Cleaning and standardizing real-world job posting data  
 - Designing clear, insightful visualizations  
@@ -83,7 +83,7 @@ The analysis answers key questions:
 
 ---
 
-## What I Learned
+## 💡What I Learned
 
 - Advanced **Python & pandas** techniques for real-world data  
 - Effective **data cleaning and preprocessing**  
@@ -94,7 +94,7 @@ The analysis answers key questions:
 
 ---
 
-## Repository Structure
+## 📂 Repository Structure
 
 3_Project/
 ├── 1_EDA_Intro.ipynb       # Initial exploration and data overview
@@ -106,7 +106,7 @@ The analysis answers key questions:
 
 ---
 
-## How to Run
+## 🚀 How to Run
 
 1. Clone the repository:
 
@@ -116,7 +116,7 @@ The analysis answers key questions:
 
 3. Run each notebook in order to reproduce the analysis
 
-## Course Credit
+## 🎓 Course Credit
 
 This project follows the methodology taught in:
 

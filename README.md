@@ -1,4 +1,4 @@
-# Python Course Project – Full Repository
+# 🐍 Python Course Project – Full Repository
 
 This repository contains my work completed as part of **Luke Barousse’s Python & Data Analytics course**.  
 It includes notebooks for **basic Python, advanced Python/data analysis**, and a **final project** analyzing the Italian data job market.
@@ -7,7 +7,7 @@ The final project adapts Luke Barousse’s methodology to a real-world scenario 
 
 ---
 
-## Repository Structure
+## 📂 Repository Structure
 
 1_Basics/      — Python fundamentals, exercises, and solutions  
 2_Advanced/    — Advanced Python and data analysis topics  
@@ -15,7 +15,7 @@ The final project adapts Luke Barousse’s methodology to a real-world scenario 
 
 ---
 
-## Overview of Notebooks
+## 🗂️ Overview of Notebooks
 
 ### 1. Basics (`1_Basics/`)
 - Covers Python fundamentals, including:
@@ -43,7 +43,7 @@ The final project adapts Luke Barousse’s methodology to a real-world scenario 
 
 ---
 
-## Tools & Technologies Used
+## 🛠️ Tools & Technologies Used
 
 - **Python** – Core programming language
   - **pandas** – Data cleaning, transformation, and aggregation
@@ -54,7 +54,7 @@ The final project adapts Luke Barousse’s methodology to a real-world scenario 
 
 ---
 
-## Skills Learned
+## 💡Skills Learned
 
 Through this repository, I strengthened both my **Python** and **data analysis** skills, including:
 
@@ -69,7 +69,7 @@ Through this repository, I strengthened both my **Python** and **data analysis**
 
 ---
 
-## How to Use
+## 🚀 How to Use
 
 1. Clone the repository:
 
@@ -77,15 +77,15 @@ Through this repository, I strengthened both my **Python** and **data analysis**
 
 2. Explore the folders:
 
-    *1_Basics*
+    *📂 1_Basics*
 
-    *2_Advanced*
+    *📂 2_Advanced*
 
-    *3_Project*
+    *📂 3_Project*
 
 3. Open notebooks in Jupyter Notebook or VS Code and run them in order.
 
-## Course Credit
+## 🎓 Course Credit
 
 All learning materials, exercises, and project methodology are from:
 
