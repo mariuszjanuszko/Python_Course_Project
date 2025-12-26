@@ -78,11 +78,11 @@ Through this repository, I strengthened both my **Python** and **data analysis**
 
 2. Explore the folders:
 
-      Start with 1_Basics/
+    1_Basics/
 
-    Continue to 2_Advanced/
+    2_Advanced/
 
-    Finish with 3_Project/ for the applied analysis
+    3_Project/
 
 3. Open notebooks in Jupyter Notebook or VS Code and run them in order.
 

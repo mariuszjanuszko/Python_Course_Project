@@ -97,11 +97,11 @@ The analysis answers key questions:
 ## Repository Structure
 
 3_Project/
-├── 1_EDA_Intro.ipynb # Initial exploration and data overview
-├── 2_Skill_Demand.ipynb # Most in-demand skills
-├── 3_Skills_Trend.ipynb # Trends over time
+├── 1_EDA_Intro.ipynb       # Initial exploration and data overview
+├── 2_Skill_Demand.ipynb    # Most in-demand skills
+├── 3_Skills_Trend.ipynb    # Trends over time
 ├── 4_Salary_Analysis.ipynb # Salary distributions by role/skill
-└── 5_Optimal_Skills.ipynb # High-demand, high-paying skills
+└── 5_Optimal_Skills.ipynb  # High-demand, high-paying skills
 
 
 ---
@@ -109,18 +109,18 @@ The analysis answers key questions:
 ## How to Run
 
 1. Clone the repository:
-```bash
+
 git clone https://github.com/mariuszjanuszko/Python_Course_Project.git
 
-    Open the notebooks in Jupyter Notebook or VS Code
+2. Open the notebooks in Jupyter Notebook or VS Code
 
-    Run each notebook in order to reproduce the analysis
+3. Run each notebook in order to reproduce the analysis
 
-Course Credit
+## Course Credit
 
 This project follows the methodology taught in:
 
-Luke Barousse – Python & Data Analytics Course
+**Luke Barousse – Python & Data Analytics Course**
 
     Original project: U.S. job market
 
