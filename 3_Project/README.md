@@ -109,7 +109,7 @@ The analysis answers key questions:
 
 1. Clone the repository:
 
-*git clone https://github.com/mariuszjanuszko/Python_Course_Project.git*
+    *git clone https://github.com/mariuszjanuszko/Python_Course_Project.git*
 
 2. Open the notebooks in Jupyter Notebook or VS Code
 
