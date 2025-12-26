@@ -14,7 +14,6 @@ The final project adapts Luke Barousse’s methodology to a real-world scenario 
 3_Project/ # Final project notebooks (Italian job market analysis)
 README.md # This file
 
-
 ---
 
 ## Overview of Notebooks
@@ -86,8 +85,6 @@ git clone https://github.com/mariuszjanuszko/Python_Course_Project.git
         Finish with 3_Project/ for the applied analysis
 
     Open notebooks in Jupyter Notebook or VS Code and run them in order.
-
----
 
 ## Course Credit
 
