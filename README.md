@@ -1,106 +1,100 @@
-# Python Course Project – Job Market Analysis (Italy)
+# Python Course Project – Full Repository
 
 This repository contains my work completed as part of **Luke Barousse’s Python & Data Analytics course**.  
-All materials follow the structure of the course, including **basic lessons, advanced lessons, solutions, and the final project**.
+It includes notebooks for **basic Python, advanced Python/data analysis**, and a **final project** analyzing the Italian data job market.
 
-The final project was completed **alongside Luke Barousse**, with one key difference:
-
-➡️ **My analysis focuses on the Italian job market**, while Luke’s original project analyzed the U.S. job market.
-
-This repository is intended for **learning, practice, and portfolio demonstration purposes**.
+The final project adapts Luke Barousse’s methodology to a real-world scenario focused on **Italy**, while the course itself provides a structured path from basics to advanced data analytics.
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
-Python_Course_Project/
-├── 1_Basics/
-├── 2_Advanced/
-├── 3_Project/
-│ ├── 2_Skill_Demand.ipynb
-│ ├── 3_Skills_Trend.ipynb
-│ ├── 4_Salary_Analysis.ipynb
-│ └── 5_Optimal_Skills.ipynb
-└── README.md
+1_Basics/ # Python fundamentals, exercises, and solutions
+2_Advanced/ # Advanced Python and data analysis topics
+3_Project/ # Final project notebooks (Italian job market analysis)
+README.md # This file
 
-
-- **1_Basics/** – Python fundamentals following the course lessons  
-- **2_Advanced/** – Advanced Python and data analysis topics  
-- **3_Project/** – Final project notebooks adapted to the Italian job market  
 
 ---
 
-## 📌 Project Overview
+## Overview of Notebooks
 
-The goal of the final project is to analyze the data job market using Python and real-world job posting data.
+### 1. Basics (`1_Basics/`)
+- Covers Python fundamentals, including:
+  - Variables, loops, and functions
+  - Lists, dictionaries, sets, and data structures
+  - Introductory exercises and solutions
+- Focus: building a strong foundation in Python
 
-The analysis answers questions such as:
+### 2. Advanced (`2_Advanced/`)
+- Covers intermediate and advanced Python topics:
+  - Pandas and NumPy for data manipulation
+  - Data cleaning and transformation
+  - Data visualization basics
+  - Exercises and solutions
+- Focus: preparing for real-world data analysis tasks
 
-1. **Which skills are most in demand?**  
-   (`2_Skill_Demand.ipynb`)  
-   Identify the most frequently requested skills across data-related roles.
-
-2. **How does skill demand change over time?**  
-   (`3_Skills_Trend.ipynb`)  
-   Analyze trends in skill demand to identify growing or declining skills.
-
-3. **What does the salary landscape look like?**  
-   (`4_Salary_Analysis.ipynb`)  
-   Explore salary distributions across roles and skills.
-
-4. **Which skills are optimal to learn?**  
-   (`5_Optimal_Skills.ipynb`)  
-   Combine skill demand and salary insights to identify high-value skills.
-
-The **analysis structure and methodology follow Luke Barousse’s course**, while the **data and insights are specific to the Italian job market**.
-
----
-
-## 📚 What I Learned
-
-Through this project and Luke Barousse’s course, I strengthened both my **Python** and **data analysis** skills, including:
-
-- Writing clean and readable Python code for data analysis
-- Using **pandas** to clean, transform, and explore real-world datasets
-- Performing exploratory data analysis (EDA)
-- Grouping, aggregating, and reshaping data to answer specific questions
-- Creating meaningful visualizations with **matplotlib** and **seaborn**
-- Analyzing trends over time
-- Working with salary data, distributions, and outliers
-- Combining multiple metrics (skill demand + salary) to evaluate “optimal” skills
-- Structuring a multi-notebook data analysis project
-- Adapting an existing analysis framework to a **different job market (Italy vs. U.S.)**
-
-This project helped bridge the gap between **learning Python concepts** and **applying them to a realistic data analytics scenario**.
+### 3. Project (`3_Project/`)
+- Analysis of the **Italian data analyst job market**  
+- Includes notebooks for:
+  - Exploratory Data Analysis (EDA)  
+  - Skill demand and trends  
+  - Salary analysis  
+  - Optimal skills identification  
+- For full details, see [3_Project/README.md](3_Project/README.md)
 
 ---
 
-## 🛠 Tools & Libraries
+## Tools & Technologies Used
 
-The project uses the tools taught in the course:
-
-- **Python**
-- **pandas**
-- **matplotlib**
-- **seaborn**
-- **Jupyter Notebook / VS Code**
+- **Python** – Core programming language
+  - **pandas** – Data cleaning, transformation, and aggregation
+  - **matplotlib & seaborn** – Data visualization
+- **Jupyter Notebook** – Analysis and documentation
+- **Visual Studio Code** – Development environment
+- **Git & GitHub** – Version control and collaboration
 
 ---
 
-## 🚀 How to Use
+## Skills Learned
+
+Through this repository, I strengthened both my **Python** and **data analysis** skills, including:
+
+- Writing **clean, readable Python code**  
+- Using **pandas** for data cleaning, aggregation, and exploration  
+- Performing **exploratory data analysis (EDA)** to uncover patterns  
+- Creating **visualizations** to communicate insights clearly  
+- Analyzing **trends over time** and comparing metrics  
+- Combining multiple factors (e.g., skill demand and salary) for actionable insights  
+- Structuring a **multi-notebook project** for clear workflow  
+- Adapting a learning framework to a **real-world, country-specific dataset**  
+
+---
+
+## How to Use
 
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/mariuszjanuszko/Python_Course_Project.git
-2. Open the notebooks using Jupyter Notebook or VS Code.
-3. Run the notebooks, especially those in the 3_Project/ directory, from top to bottom.
+```bash
+git clone https://github.com/mariuszjanuszko/Python_Course_Project.git
 
-## 🎓 Course Credit
+    Explore the folders:
 
-All learning materials, project structure, and analysis approach are from:
+        Start with 1_Basics/
+
+        Continue to 2_Advanced/
+
+        Finish with 3_Project/ for the applied analysis
+
+    Open notebooks in Jupyter Notebook or VS Code and run them in order.
+
+---
+
+## Course Credit
+
+All learning materials, exercises, and project methodology are from:
 
 Luke Barousse – Python & Data Analytics Course
 
-Original final project: U.S. job market
+    Basics & Advanced: Course lessons and exercises
 
-This repository: Italian job market adaptation
+    Final project: U.S. job market methodology adapted for the Italian job market
