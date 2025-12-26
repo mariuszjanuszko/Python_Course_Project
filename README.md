@@ -74,17 +74,17 @@ Through this repository, I strengthened both my **Python** and **data analysis**
 
 1. Clone the repository:
 
-git clone https://github.com/mariuszjanuszko/Python_Course_Project.git
+    git clone https://github.com/mariuszjanuszko/Python_Course_Project.git
 
-    Explore the folders:
+2. Explore the folders:
 
-        Start with 1_Basics/
+      Start with 1_Basics/
 
-        Continue to 2_Advanced/
+    Continue to 2_Advanced/
 
-        Finish with 3_Project/ for the applied analysis
+    Finish with 3_Project/ for the applied analysis
 
-    Open notebooks in Jupyter Notebook or VS Code and run them in order.
+3. Open notebooks in Jupyter Notebook or VS Code and run them in order.
 
 ## Course Credit
 
