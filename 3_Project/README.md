@@ -38,30 +38,31 @@ The analysis answers key questions:
 
 ## 📊 Analysis Overview
 
-### 1. Exploratory Data Analysis (`1_EDA_Intro.ipynb`)
+### 1. Exploratory Data Analysis ([1_EDA_Intro.ipynb](3_Project/1_EDA_Intro.ipynb))
 - Examined dataset structure and key columns: job titles, locations, salaries, skills  
 - Visualized distributions and patterns for initial understanding  
 - Identified data cleaning requirements and prepared dataset for deeper analysis  
 
-### 2. Skill Demand (`2_Skill_Demand.ipynb`)
+### 2. Skill Demand ([2_Skill_Demand.ipynb](3_Project/2_Skill_Demand.ipynb))
 - Identified the most requested skills across top data roles  
 - Core skills: SQL, Python, Excel  
 - Role-specific tools: Tableau, Power BI, AWS  
 
-### 3. Skill Trends (`3_Skills_Trend.ipynb`)
+### 3. Skill Trends ([3_Skills_Trend.ipynb](3_Project/3_Skills_Trend.ipynb))
 - Tracked skill demand over time for Data Analysts  
 - SQL and Python remain consistently in demand  
 - Excel and visualization tools show seasonal or emerging trends  
 
-### 4. Salary Analysis (`4_Salary_Analysis.ipynb`)
+### 4. Salary Analysis ([4_Salary_Analysis.ipynb](3_Project/4_Salary_Analysis.ipynb))
 - Explored salary distributions by role and skill  
 - Senior and specialized roles command higher salaries  
 - Core skills are widely demanded but often lower-paying  
 
-### 5. Optimal Skills (`5_Optimal_Skills.ipynb`)
+### 5. Optimal Skills ([5_Optimal_Skills.ipynb](3_Project/5_Optimal_Skills.ipynb))
 - Combined skill demand and salary to identify high-value skills  
 - Python, Tableau, SQL Server offer strong balance of demand and pay  
-- Specialized database skills (Oracle, SQL Server) offer high salaries despite lower posting frequency  
+- Specialized database skills (Oracle, SQL Server) offer high salaries despite lower posting frequency
+
 
 ---
 
@@ -97,11 +98,11 @@ The analysis answers key questions:
 ## 📂 Repository Structure
 
 - **3_Project/**
-  - `1_EDA_Intro.ipynb` – Initial exploration and data overview
-  - `2_Skill_Demand.ipynb` – Most in-demand skills
-  - `3_Skills_Trend.ipynb` – Trends over time
-  - `4_Salary_Analysis.ipynb` – Salary distributions by role/skill
-  - `5_Optimal_Skills.ipynb` – High-demand, high-paying skills
+  - [`1_EDA_Intro.ipynb`](3_Project/1_EDA_Intro.ipynb) – Initial exploration and data overview
+  - [`2_Skill_Demand.ipynb`](3_Project/2_Skill_Demand.ipynb) – Most in-demand skills
+  - [`3_Skills_Trend.ipynb`](3_Project/3_Skills_Trend.ipynb) – Trends over time
+  - [`4_Salary_Analysis.ipynb`](3_Project/4_Salary_Analysis.ipynb) – Salary distributions by role/skill
+  - [`5_Optimal_Skills.ipynb`](3_Project/5_Optimal_Skills.ipynb) – High-demand, high-paying skills
 
 ---
 

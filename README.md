@@ -9,31 +9,31 @@ The final project adapts Luke Barousse’s methodology to a real-world scenario 
 
 ## 📂 Repository Structure
 
-1_Basics/      — Python fundamentals, exercises, and solutions  
-2_Advanced/    — Advanced Python and data analysis topics  
-3_Project/     — Final project notebooks (Italian job market analysis) 
+- [1_Basics/](1_Basics/)      – Python fundamentals, exercises, and solutions  
+- [2_Advanced/](2_Advanced/)    – Advanced Python and data analysis topics  
+- [3_Project/](3_Project/)     – Final project notebooks (Italian job market analysis)
 
 ---
 
 ## 🗂️ Overview of Notebooks
 
-### 1. Basics (`1_Basics/`)
+### 1. Basics ([1_Basics/](1_Basics/))
 - Covers Python fundamentals, including:
   - Variables, loops, and functions
   - Lists, dictionaries, sets, and data structures
   - Introductory exercises and solutions
-- Focus: building a strong foundation in Python
+- **Focus:** building a strong foundation in Python
 
-### 2. Advanced (`2_Advanced/`)
+### 2. Advanced ([2_Advanced/](2_Advanced/))
 - Covers intermediate and advanced Python topics:
   - Pandas and NumPy for data manipulation
   - Data cleaning and transformation
   - Data visualization basics
   - Exercises and solutions
-- Focus: preparing for real-world data analysis tasks
+- **Focus:** preparing for real-world data analysis tasks
 
-### 3. Project (`3_Project/`)
-- Analysis of the **Italian data analyst job market**  
+### 3. Project ([3_Project/](3_Project/))
+- Analysis of the **Italian data analyst job market**
 - Includes notebooks for:
   - Exploratory Data Analysis (EDA)  
   - Skill demand and trends  
@@ -77,11 +77,9 @@ Through this repository, I strengthened both my **Python** and **data analysis**
 
 2. Explore the folders:
 
-    *📂 1_Basics*
-
-    *📂 2_Advanced*
-
-    *📂 3_Project*
+- 📂 [1_Basics](1_Basics/)  
+- 📂 [2_Advanced](2_Advanced/)  
+- 📂 [3_Project](3_Project/)
 
 3. Open notebooks in Jupyter Notebook or VS Code and run them in order.
 
