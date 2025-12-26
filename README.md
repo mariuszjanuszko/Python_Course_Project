@@ -9,9 +9,9 @@ The final project adapts Luke Barousse’s methodology to a real-world scenario 
 
 ## Repository Structure
 
-1_Basics/    # Python fundamentals, exercises, and solutions  
-2_Advanced/  # Advanced Python and data analysis topics  
-3_Project/   # Final project notebooks (Italian job market analysis)  
+1_Basics/      — Python fundamentals, exercises, and solutions  
+2_Advanced/    — Advanced Python and data analysis topics  
+3_Project/     — Final project notebooks (Italian job market analysis) 
 
 ---
 
