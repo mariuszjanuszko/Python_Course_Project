@@ -9,10 +9,9 @@ The final project adapts Luke Barousse’s methodology to a real-world scenario 
 
 ## Repository Structure
 
-1_Basics/ # Python fundamentals, exercises, and solutions
-2_Advanced/ # Advanced Python and data analysis topics
-3_Project/ # Final project notebooks (Italian job market analysis)
-README.md # This file
+1_Basics/    # Python fundamentals, exercises, and solutions  
+2_Advanced/  # Advanced Python and data analysis topics  
+3_Project/   # Final project notebooks (Italian job market analysis)  
 
 ---
 
@@ -78,11 +77,11 @@ Through this repository, I strengthened both my **Python** and **data analysis**
 
 2. Explore the folders:
 
-    *1_Basics/*
+    *1_Basics*
 
-    *2_Advanced/*
+    *2_Advanced*
 
-    *3_Project/*
+    *3_Project*
 
 3. Open notebooks in Jupyter Notebook or VS Code and run them in order.
 
